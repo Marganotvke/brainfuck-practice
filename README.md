@@ -1,1 +1,1 @@
-# barinfuck-my-ass
+### It prints "Eat Shit".
